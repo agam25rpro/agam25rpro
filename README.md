@@ -6,12 +6,12 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 - **Machine Learning (ML):** Developing models, working with datasets, and applying ML algorithms to solve real-world problems.
 - **Artificial Intelligence (AI):** Exploring AI concepts and technologies to create intelligent systems.
 - **Neural Networks:** Learning about different neural network architectures and their applications in various domains.
-- **Data Structures and Algorithms (DSA) in Java:** Enhancing problem-solving skills and understanding of fundamental algorithms and data structures.
+- **Data Structures and Algorithms (DSA) in Python:** Enhancing problem-solving skills and understanding of fundamental algorithms and data structures.
 
 ## Skills
-- **Programming Languages:** Python, C
-- **ML Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch ,StreamLit
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Programming Languages:** Python,Js,java,c
+- **ML Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch 
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, opencv
 - **Version Control:** Git, GitHub
 
 ## Projects
@@ -24,7 +24,7 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 - Contribute to open-source AI and ML projects.
 - Continuously enhance my skills in data science and machine learning.
 - Develop expertise in web development and create innovative web applications.
-- Improve problem-solving abilities by learning and implementing DSA concepts in Java.
+- Improve problem-solving abilities by learning and implementing DSA concepts in Python.
 
 ## Get in Touch
 - **Email:**agam25r@gmail.com
