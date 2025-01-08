@@ -15,9 +15,11 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 - **Version Control:** Git, GitHub
 
 ## Projects
-1. **Anime Recommendation System:** A machine learning project that recommends anime based on user preferences using popularity and rating metrics.
-2. **Phone Feature Recommendation System:** A ML project that suggests phones based on a list of preferred features.
-3. **Multiple disease prediction system** A ML project which diagnosis if the user has a disease or not 
+1. **Music Recommendation System:** A machine learning project that recommends Music based on a Similar song.
+2. **Data Summariser webapp:** A DL project which summarises the text given .
+3. **Multiple disease prediction system** A ML project which diagnosis if the user has a disease or not
+4. **sentiment sense webapp** : A ML webapp which uses ML to sense the sentiment of text given.
+5. **Music Genre classifier** : A DL webapp which uses DL to classify music into different genres.  
 
 ## Goals
 - Master neural networks and deep learning techniques.
