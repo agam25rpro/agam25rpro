@@ -31,7 +31,7 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 - Improve problem-solving abilities by learning and implementing DSA concepts in Python.
 
 ## Get in Touch
-- **Email:**agam25r@gmail.com
+- **Email**:agam25r@gmail.com
 
 Feel free to reach out to me for collaboration, discussions, or just to share ideas about ML, AI, web development, and DSA!
 
