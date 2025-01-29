@@ -11,7 +11,7 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 ## Skills
 - **Programming Languages:** Python,Js,java,c
 - **ML Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch 
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, opencv
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn,Power BI, Excel
 - **Version Control:** Git, GitHub
 
 ## Projects
@@ -19,7 +19,9 @@ I'm a tech enthusiast currently studying at Bharati Vidyapeeth College of Engine
 2. **Data Summariser webapp:** A DL project which summarises the text given .
 3. **Multiple disease prediction system** A ML project which diagnosis if the user has a disease or not
 4. **sentiment sense webapp** : A ML webapp which uses ML to sense the sentiment of text given.
-5. **Music Genre classifier** : A DL webapp which uses DL to classify music into different genres.  
+5. **Music Genre classifier** : A DL webapp which uses DL to classify music into different genres.
+6. **Diagnosify**: leverages SVMs to analyze user-provided medical data and predict the presence of diseases.
+
 
 ## Goals
 - Master neural networks and deep learning techniques.
